@@ -1,0 +1,165 @@
+.body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.primero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 5%;
+}
+.foto1{
+    width: 50px;
+    border-radius: 100%;
+}
+.fafa-house{
+    color: aliceblue;
+    font-size: 50pxs;
+    
+}
+.fotos-perfil{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+/* termina */
+.segundo{
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    
+
+}
+/*  dar forma  */
+.letras2 button{
+    background-color:#0B2035 ;
+    color: aliceblue;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+}
+/* termina */
+.tercero{
+    height: 20%;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: blueviolet;
+}
+.imagen-tercera1{
+    background-image: url("/img/5.jpg");
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagen-tercera2{
+    background-image: url("/img/3.jpg");
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagen-tercera3{
+    background-image: url("/img/1.jpg");
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* termina */
+.cuarto{
+    height: 10%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.contendor4-3{
+    font-size: 30px;
+}
+.contendor4 button{
+     background-color: #0B2035;
+     color: aliceblue;
+     width: 80px;
+     height: 40px;
+     border-radius: 10px;
+}
+
+/* termina */
+.quinto{
+    height: 20%;
+    
+    display: flex;
+    
+    justify-content:space-around;
+}
+.img-quinto{
+    background-image: url("/img/5.jpg");
+    width: 130px;
+    height: 130px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+/* termina */
+.sectimo{
+    height: 5%;
+   
+
+}
+.ocho{
+    height: 20%;
+ 
+    display: flex;
+    flex-direction: column;
+}
+.contenedor0-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.foto-ocho{
+    width: 50px;
+    border-radius: 6px;
+}
+.fa-solid{
+    color: aliceblue;
+}
+.footer{
+    
+   
+    height: 80%;
+    width: 90%;
+    display: flex;
+    align-items:center ;
+   
+
+}
+.footer button{
+    
+   
+   
+
+}
